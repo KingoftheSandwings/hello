@@ -1,6 +1,9 @@
 /**
- * Basic Hello
+ * Basic hello world program
  */
+
+#include <stdlib.h>
+#include <stdio.h>
 
 int main (int argc, char **argv)
 {
